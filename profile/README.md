@@ -1,3 +1,5 @@
+![VoidTraceSec Banner](Gemini_Generated_Image_eywdfkeywdfkeywd.png)
+
 # VOIDTRACE SECURITY
 
 > **"Shadowing the State. Securing the Void."**
